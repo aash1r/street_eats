@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.488" height="40.542" viewBox="0 0 36.488 40.542">
+  <defs>
+    <filter id="Path_2932" x="0" y="0" width="36.488" height="40.542" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.102" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Iconly_Bold_Document" data-name="Iconly/Bold/Document" transform="translate(-3 -2)">
+    <g id="Document" transform="translate(3 2)">
+      <g data-type="innerShadowGroup">
+        <path id="Path_2932-2" data-name="Path 2932" d="M26.74,0C33,0,36.488,3.608,36.488,9.791h0v20.94c0,6.284-3.487,9.811-9.748,9.811H9.75C3.588,40.542,0,37.015,0,30.731H0V9.791C0,3.608,3.588,0,9.75,0H26.74ZM10.3,27.853a1.59,1.59,0,0,0-1.52.75,1.611,1.611,0,0,0,0,1.7,1.575,1.575,0,0,0,1.52.73H26.19a1.6,1.6,0,0,0,0-3.183H10.3ZM26.19,18.607H10.3a1.582,1.582,0,0,0,0,3.164H26.19a1.582,1.582,0,0,0,0-3.164ZM16.357,9.426H10.3v.02a1.581,1.581,0,0,0,0,3.162h6.059a1.591,1.591,0,0,0,0-3.183Z" transform="translate(0 0)" fill="#fef9f0"/>
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_2932)">
+          <path id="Path_2932-3" data-name="Path 2932" d="M26.74,0C33,0,36.488,3.608,36.488,9.791h0v20.94c0,6.284-3.487,9.811-9.748,9.811H9.75C3.588,40.542,0,37.015,0,30.731H0V9.791C0,3.608,3.588,0,9.75,0H26.74ZM10.3,27.853a1.59,1.59,0,0,0-1.52.75,1.611,1.611,0,0,0,0,1.7,1.575,1.575,0,0,0,1.52.73H26.19a1.6,1.6,0,0,0,0-3.183H10.3ZM26.19,18.607H10.3a1.582,1.582,0,0,0,0,3.164H26.19a1.582,1.582,0,0,0,0-3.164ZM16.357,9.426H10.3v.02a1.581,1.581,0,0,0,0,3.162h6.059a1.591,1.591,0,0,0,0-3.183Z" transform="translate(0 0)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

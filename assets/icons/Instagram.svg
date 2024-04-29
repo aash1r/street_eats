@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cf57df"/>
+      <stop offset="1" stop-color="#682c70"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10440" data-name="Group 10440" transform="translate(-339 -702)">
+    <g id="Rectangle_1540" data-name="Rectangle 1540" transform="translate(339 702)" fill="#fff" stroke="#c5c4c9" stroke-width="1">
+      <rect width="50" height="50" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="49" height="49" rx="4.5" fill="none"/>
+    </g>
+    <g id="Icon_ionic-logo-instagram" data-name="Icon ionic-logo-instagram" transform="translate(349.193 712.339)">
+      <path id="Path_2866" data-name="Path 2866" d="M19.1,6.218A4.307,4.307,0,0,1,23.4,10.512V19.1A4.307,4.307,0,0,1,19.1,23.4H10.512A4.307,4.307,0,0,1,6.218,19.1V10.512a4.307,4.307,0,0,1,4.294-4.294H19.1m0-1.718H10.512A6.03,6.03,0,0,0,4.5,10.512V19.1a6.03,6.03,0,0,0,6.012,6.012H19.1A6.03,6.03,0,0,0,25.113,19.1V10.512A6.03,6.03,0,0,0,19.1,4.5Z" fill="url(#linear-gradient)"/>
+      <path id="Path_2867" data-name="Path 2867" d="M24.913,11.577A1.288,1.288,0,1,1,26.2,10.288,1.285,1.285,0,0,1,24.913,11.577Z" transform="translate(-4.524 -1.064)" fill="url(#linear-gradient)"/>
+      <path id="Path_2868" data-name="Path 2868" d="M16.4,12.968A3.436,3.436,0,1,1,12.968,16.4,3.439,3.439,0,0,1,16.4,12.968m0-1.718A5.153,5.153,0,1,0,21.557,16.4,5.155,5.155,0,0,0,16.4,11.25Z" transform="translate(-1.597 -1.597)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
