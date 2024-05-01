@@ -19,7 +19,7 @@ class ContainerSelectionRow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetBuilder(
-      init: FilterContainerController(),
+      init: OrderFilterController(),
       builder: (controller) {
         return Row(
           children: List.generate(

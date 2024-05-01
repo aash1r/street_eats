@@ -23,6 +23,8 @@ import 'package:street_eats_vendor/screens/settings/settings_screen.dart';
 import 'package:street_eats_vendor/screens/settings/terms_and_condition_screen.dart';
 import 'package:street_eats_vendor/screens/splash_screen/splash_screen.dart';
 
+import 'screens/bindings.dart';
+import 'screens/bottom_bar/bottom_nav_bar.dart';
 import 'screens/chats/conversation_screen.dart';
 
 class Routes {
@@ -61,6 +63,11 @@ class Routes {
           settings: settings,
           page: () => const VerificationScreen(),
         );
+      case BottomNavBar.routeName:
+        return GetPageRoute(
+            settings: settings,
+            page: () => const BottomNavBar(),
+            binding: Binding());
       case HomeScreen.routeName:
         return GetPageRoute(
           settings: settings,

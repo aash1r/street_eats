@@ -41,7 +41,7 @@ class DrawerModel {
         onTap: () {},
       ),
       DrawerScreenModel(
-        page: OrderHistoryScreen(),
+        page: const OrderHistoryScreen(),
         text: 'Order History',
         image: AppAssets.orderHistoryIconGradient,
         onTap: () {},
@@ -97,7 +97,7 @@ class DrawerModel {
         onTap: () {},
       ),
       DrawerScreenModel(
-        page: OrderHistoryScreen(),
+        page: const OrderHistoryScreen(),
         text: 'Order History',
         image: AppAssets.orderHistoryIconGradient,
         onTap: () {},

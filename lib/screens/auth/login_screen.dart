@@ -1,5 +1,6 @@
 import 'package:street_eats_vendor/helpers/functions/change_page.dart';
 import 'package:street_eats_vendor/screens/auth/signup_screen.dart';
+import 'package:street_eats_vendor/screens/bottom_bar/bottom_nav_bar.dart';
 import 'package:street_eats_vendor/screens/home/home_screen.dart';
 import '../../helpers/utils/export.dart';
 
@@ -140,7 +141,7 @@ class LoginScreen extends StatelessWidget {
             ),
             14.verticalSpace,
             CustomButton(
-                onTap: () => changePage(HomeScreen.routeName),
+                onTap: () => changePage(BottomNavBar.routeName),
                 gradient: AppColors.gradient,
                 height: 22.h,
                 title: 'Login',

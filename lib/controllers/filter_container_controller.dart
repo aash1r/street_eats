@@ -1,6 +1,6 @@
 import 'package:street_eats_vendor/helpers/utils/export.dart';
 
-class FilterContainerController extends GetxController {
+class OrderFilterController extends GetxController {
   int filterIndex = 0;
 
   void setFilterIndex(int index) {

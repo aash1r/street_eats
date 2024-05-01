@@ -20,7 +20,7 @@ class MainMenuScreen extends StatefulWidget {
 class _MainMenuScreenState extends State<MainMenuScreen> {
   @override
   Widget build(BuildContext context) {
-    return GetBuilder<FilterContainerController>(
+    return GetBuilder<OrderFilterController>(
       builder: (controller) {
         return Container(
           decoration:

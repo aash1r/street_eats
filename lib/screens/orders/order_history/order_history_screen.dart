@@ -13,7 +13,7 @@ class OrderHistoryScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetBuilder(
-      init: FilterContainerController(),
+      init: OrderFilterController(),
       builder: (controller) {
         return Container(
           decoration:
